@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;My+name+is+Kholoud+😊;I'm+a+Full+Stack+Python+Dev)](https://git.io/typing-svg)
 
 
-<hr/>
+<hr style='border: 1px solid gray'/>
 
 
 - 🔭 I’m currently working on CRM for a clinic
