@@ -17,6 +17,12 @@ Here are some ideas to get you started:
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;My+name+is+Kholoud+😊;I'm+a+Full+Stack+Python+Dev)](https://git.io/typing-svg)
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kholoud-talaat-267b03ab/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 
 <hr style="border:1px solid gray"> </hr>
 
@@ -26,14 +32,6 @@ Here are some ideas to get you started:
 
 <hr style="border:1px solid gray"> </hr>
 
-
-###CONTACT ME:
-
-<div id="badges">
-  <a href="https://www.linkedin.com/in/kholoud-talaat-267b03ab/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
 
  ---
  <div>
@@ -51,6 +49,3 @@ Here are some ideas to get you started:
 </div>
 
 ---
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kholoud731&layout=compact)](https://github.com/yushi1007)
