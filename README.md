@@ -18,12 +18,16 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hello+👋;My+name+is+Kholoud+😊;I'm+a+Full+Stack+Python+Dev)](https://git.io/typing-svg)
 
 
-<hr/>
+---
+
 - 🔭 I’m currently working on CRM for a clinic
 - 🌱 I’m currently learning more advanced topics about React, Django and DRF
 - 🤔 I’m looking for help finding a job as Fullstack dev
-<hr/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kholoud731&layout=compact)](https://github.com/yushi1007)
+---
+
+<a href=”https://www.linkedin.com/in/kholoud-talaat-267b03ab/"><img align=”left” src=”https://raw.githubusercontent.com/username/reponame/branch/foldername/icon.svg" alt=”icon | LinkedIn” width=”21px”/></a>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kholoud731&layout=compact)](https://github.com/yushi1007) -->
 
 
