@@ -24,16 +24,13 @@ Here are some ideas to get you started:
 </div>
 
 
-<hr style="border:1px solid gray"> </hr>
+<hr style="border:2px solid blue"> </hr>
 
 - 🔭 I’m currently working on CRM for a clinic
 - 🌱 I’m currently learning more advanced topics about React, Django and DRF
 - 🤔 I’m looking for help finding a job as Fullstack dev
 
-<hr style="border:1px solid gray"> </hr>
-
-
- ---
+<hr style="border:2px solid blue"> </hr>
  <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -48,4 +45,4 @@ Here are some ideas to get you started:
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
 
----
+<hr style="border:2px solid blue"> </hr>
