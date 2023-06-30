@@ -26,9 +26,9 @@ Here are some ideas to get you started:
 
 <hr style="border:2px solid blue"> </hr>
 
-- 🔭 I’m currently working on CRM for a clinic
+- 🔭 I’m currently working at _VOIS
 - 🌱 I’m currently learning more advanced topics about React, Django and DRF
-- 🤔 I’m looking for help finding a job as Fullstack dev
+- 🤔 I’m interested on solving a new challenges related to ReactJs
 
 <hr style="border:2px solid blue"> </hr>
  <div>
